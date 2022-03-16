@@ -9,4 +9,4 @@ To get the result, you need to place the data folder into the solution folder. T
 python3 run.py
 ```
 
-This will create file "submision.csv" in the solution folder.
+This will create file "submission.csv" in the solution folder.
