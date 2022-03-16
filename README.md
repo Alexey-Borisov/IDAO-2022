@@ -5,6 +5,6 @@ It is just copy of our solution which was uploaded as a solution to the Track 2.
 
 To get the result, you need to place the data folder in the same directory as the files from the solution folder. Then just run the following command:
 
-'''
+```
 python3 run.py
-'''
+```
